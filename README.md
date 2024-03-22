@@ -6,8 +6,8 @@ Simply **open the app**, input the **port number** and click **'Kill'** !
 
 ## Download
 
-- [Port-Killer_Linux_0.1.0.deb]()
-- [Port-Killer_Linux_0.1.0.AppImage]()
+- [Port-Killer_Linux_0.1.0.deb](https://github.com/HeySkidee/Port-Killer/releases/download/v0.1.0/Port-Killer_Linux_0.1.0.deb)
+- [Port-Killer_Linux_0.1.0.AppImage](https://github.com/HeySkidee/Port-Killer/releases/download/v0.1.0/Port-Killer_Linux_0.1.0.AppImage)
 
 ## Contribute
 
