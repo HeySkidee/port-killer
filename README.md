@@ -11,8 +11,6 @@ Simply **open the app**, input the **port number** and click **'Kill'** !
 
 ## Contribute
 
-Interested in contributing to Port Killer? Here's how you can get started:
-
 1. **Clone the Repository**
 
 ``` 
