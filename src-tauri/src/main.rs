@@ -4,7 +4,7 @@ use log::{info, error};
 
 fn main() {
     Builder::default()
-        .invoke_handler(tauri::generate_handler![kill_port])
+        .invoke_handler(tauri::generate_handler![kill_port, quit_application])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
 }
@@ -26,4 +26,9 @@ fn kill_port(port: String) -> Result<(), String> {
 
     info!("Successfully killed port: {}", port);
     Ok(())
+}
+
+#[tauri::command]
+fn quit_application() {
+    std::process::exit(0);
 }
