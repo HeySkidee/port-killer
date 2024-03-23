@@ -12,27 +12,27 @@ No need to use complex commands just to terminate a port.
 
 ## Contribute
 
-### 1. Clone the Repository
+#### 1. Clone the Repository
 ``` 
 git clone https://github.com/HeySkidee/Port-Killer.git
 ```
 
-### 2. Navigate to the project directory
+#### 2. Navigate to the project directory
 ```bash
 cd Port-Killer
 ```
 
-### 3. Install Dependencies
+#### 3. Install Dependencies
 ```
 npm install
 ```
 
-### 4. Run the Preview
+#### 4. Run the Preview
 ```
 npm run tauri dev
 ```
 
-### 5. Build the Application
+#### 5. Build the Application
 ```
 npm run tauri build
 ```
