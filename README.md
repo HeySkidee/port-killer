@@ -4,6 +4,7 @@ Simplify port termination. Input the port number and click 'Kill' !
 
 No need to use complex commands just to terminate a port. 
 
+<img src = "https://github.com/user-attachments/assets/87968d5c-2ff1-454a-950e-42a14e62d371" width="40%">
 
 ## Download
 
