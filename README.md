@@ -13,6 +13,10 @@ No need to use complex commands just to terminate a port.
 
 ## Contribute
 
+#### 0. Prerequisite: 
+
+> [Install Rust in your system](https://rust-lang.org/tools/install)
+
 #### 1. Clone the Repository
 ``` 
 git clone https://github.com/HeySkidee/Port-Killer.git
